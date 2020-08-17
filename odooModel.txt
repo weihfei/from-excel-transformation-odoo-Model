@@ -1,0 +1,4 @@
+userName=field.Char('string'='用户名')
+age=field.Char('string'='年龄')
+sex=field.Char('string'='性别')
+hight=field.Char('string'='身高')
